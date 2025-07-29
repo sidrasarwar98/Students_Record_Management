@@ -1,0 +1,37 @@
+﻿<script>
+
+
+
+$('#btnSave').click(function(){
+    var s= {
+        S_Id:$('#S_Id').val(),
+        S_Name:$('#S_Name').val(),
+        S_Age:$('#S_Age').val()
+
+    };
+    if(!s.S_Name|| !s.S_Age)
+    alert('please fil all the fields');
+    return ;
+}
+$.ajax({
+    url: s.S_Id==o?'/Students/AddStudents':'/Students/UpdateStudents',
+    type: s.S_Id==0 ? 'POST':'Post'
+    data: JSON.stringify(s),
+    ContentType: 'application/json',
+    success:function()
+    {
+        loadStudents();
+        $('#studentForm')[0].reset();
+    },
+    error: function(xhr, status, error)
+    {
+        console.log("Ajax Error",error)
+        console.log("Response",error)
+    }
+    {
+
+    }
+});
+});
+
+</script>

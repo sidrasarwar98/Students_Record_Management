@@ -1,0 +1,157 @@
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.csproj.AssemblyReference.cache
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.AssemblyInfo.cs
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.RazorAssemblyInfo.cache
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.RazorAssemblyInfo.cs
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\appsettings.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.staticwebassets.runtime.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.staticwebassets.endpoints.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.exe
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.deps.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.runtimeconfig.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.pdb
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\bundle\StudentCRUD.styles.css
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\projectbundle\StudentCRUD.bundle.scp.css
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets\msbuild.StudentCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets\msbuild.StudentCRUD.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentCRUD.props
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentCRUD.props
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentCRUD.props
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentC.377918C3.Up2Date
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\refint\StudentCRUD.dll
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.pdb
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.genruntimeconfig.cache
+C:\Users\Sidra\source\repos\StudentCRUD\StudentCRUD\obj\Debug\net8.0\ref\StudentCRUD.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\appsettings.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.staticwebassets.runtime.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.staticwebassets.endpoints.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.exe
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.deps.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.runtimeconfig.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.pdb
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.csproj.AssemblyReference.cache
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.AssemblyInfo.cs
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.RazorAssemblyInfo.cache
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.RazorAssemblyInfo.cs
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\bundle\StudentCRUD.styles.css
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\projectbundle\StudentCRUD.bundle.scp.css
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentC.377918C3.Up2Date
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\refint\StudentCRUD.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.pdb
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.genruntimeconfig.cache
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\ref\StudentCRUD.dll
+C:\Users\Sidra\Desktop\Error_Snap\Inventory_Customer_Vendor\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.csproj.AssemblyReference.cache
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.AssemblyInfo.cs
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.RazorAssemblyInfo.cache
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.RazorAssemblyInfo.cs
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\appsettings.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.staticwebassets.runtime.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.staticwebassets.endpoints.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.exe
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.deps.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.runtimeconfig.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.pdb
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\bundle\StudentCRUD.styles.css
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\projectbundle\StudentCRUD.bundle.scp.css
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentC.377918C3.Up2Date
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\refint\StudentCRUD.dll
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.pdb
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.genruntimeconfig.cache
+C:\Users\Sidra\Desktop\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\ref\StudentCRUD.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\appsettings.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.staticwebassets.runtime.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.staticwebassets.endpoints.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.exe
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.deps.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.runtimeconfig.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\StudentCRUD.pdb
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.csproj.AssemblyReference.cache
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.AssemblyInfo.cs
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.RazorAssemblyInfo.cache
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.RazorAssemblyInfo.cs
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\bundle\StudentCRUD.styles.css
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\scopedcss\projectbundle\StudentCRUD.bundle.scp.css
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentC.377918C3.Up2Date
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\refint\StudentCRUD.dll
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.pdb
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\StudentCRUD.genruntimeconfig.cache
+C:\Users\Al-Rehman COMputers\Desktop\Poject_Purchase_Order\task interview\StudentCRUD\StudentCRUD\obj\Debug\net8.0\ref\StudentCRUD.dll
